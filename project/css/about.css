@@ -1,0 +1,23 @@
+body{
+    margin: 8px; 
+    padding: 8px;
+    border: 50%;
+     background-color: #dbb0a0;
+    
+
+
+    
+}
+H1{
+    display: flex;
+    justify-content: space-around;
+}
+P{
+    margin:8px ;
+    padding: 10px;
+    border: 10px;
+    display: flex;
+    justify-content:right;
+    font-size: xx-large;
+
+}

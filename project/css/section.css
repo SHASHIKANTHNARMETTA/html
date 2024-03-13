@@ -1,0 +1,26 @@
+*{  
+    background-color:chartreuse;
+
+    background-size: 30px;
+}
+
+h1{
+    text-align: center;
+    
+    padding: 10px;
+}
+  div{
+    display: block;
+    font-size: 30px;
+    text-align: center;
+  } 
+  form{
+    display: block;
+    padding: 3px;
+    margin: 3px;
+    text-align: center;
+  }
+  body{
+    display: block;
+    text-align: center;
+  }

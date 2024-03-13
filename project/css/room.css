@@ -1,0 +1,14 @@
+body{
+    
+    color: BLACK;
+    padding: 8px;
+    margin: 8px;
+    font-size: x-large;
+    background-image: url(background.jpg);
+}
+a{
+    color:brown;
+    justify-content: space-between;
+    background-color: white;
+    text-decoration: none;
+}
